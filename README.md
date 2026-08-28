@@ -1,23 +1,23 @@
 <h1 align="center">👋 Hello World, I'm Mohammed Hadi</h1>
-<h3 align="center">Third-year Data Science & Engineering student at Manipal Institute of Technology</h3>
+<h3 align="center">Data Science & Engineering Student • AI/ML Builder • Software Engineering Enthusiast</h3>
 
 <p align="center">
-  Passionate about building intelligent systems at the intersection of <b>Data Science</b>, <b>AI/ML</b>, and <b>Software Engineering</b>.<br/>
-  I enjoy turning raw data into actionable insights, designing ML pipelines, and developing practical backend systems.<br/>
-  Currently focused on NLP, quantitative/financial ML, and real-world AI applications.<br/>
-  Always learning, shipping projects, and improving engineering depth.
+  Third-year Data Science & Engineering student at Manipal Institute of Technology.<br/>
+  I build practical systems across <b>Data Science</b>, <b>Machine Learning</b>, <b>NLP</b>, and <b>Backend Engineering</b>.<br/>
+  My current focus is quantitative ML, intelligent data products, and software that solves real-world problems.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mhdhadi2005"><img src="https://img.shields.io/badge/GitHub-mhdhadi2005-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-hadi-b10421287/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Hadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🌐 Connect with me
-<p align="left">
-  <a href="https://github.com/mhdhadi2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-hadi-b10421287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p>
+  <a href="https://github.com/mhdhadi2005">GitHub</a> •
+  <a href="https://www.linkedin.com/in/mohammed-hadi-b10421287/">LinkedIn</a>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ### Data Science / ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white)
 
 ### AI / NLP
@@ -40,7 +40,7 @@
 ![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0FA958?style=for-the-badge&logoColor=white)
 
-### Backend / Web
+### Backend / Engineering
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -52,36 +52,60 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [QuantAI](https://github.com/mhdhadi2005/QuantAI)
-AI-assisted quantitative trading project focused on stock signal generation and strategy design using historical OHLCV data.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Highlights:**
-- ML models including **XGBoost** / **Random Forest**
-- **LSTM-based** time-series modeling
+### 📈 QuantAI
+AI-assisted quantitative trading system for stock signal analysis and strategy research using historical OHLCV data.
+
+**What it includes:**
+- XGBoost / Random Forest based modeling
+- LSTM time-series experimentation
 - Feature engineering + technical indicators
-- Backtesting and risk-aware evaluation
-- API-oriented architecture with **FastAPI** and real-time design direction
+- Time-aware validation + backtesting flow
+- FastAPI-centered architecture with real-time direction
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, XGBoost, LSTM, FastAPI
+**Tech:** Python, Pandas, NumPy, Scikit-learn, XGBoost, LSTM, FastAPI  
+🔗 **Repo:** https://github.com/mhdhadi2005/QuantAI
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔹 [NER_repo](https://github.com/mhdhadi2005/NER_repo)
-Named Entity Recognition (NER) focused NLP project for extracting structured entities from unstructured text.
+### 🧠 NER_repo
+Named Entity Recognition project focused on extracting structured information from unstructured text.
 
-**Highlights:**
-- Entity extraction workflow for NLP tasks
-- Data preprocessing and model pipeline experimentation
-- Practical foundation for information extraction use-cases
+**What it includes:**
+- NLP preprocessing and entity extraction pipeline
+- Model experimentation for NER tasks
+- Foundation for real-world information extraction use cases
 
-**Tech:** Python, NLP, Machine Learning
+**Tech:** Python, NLP, Machine Learning  
+🔗 **Repo:** https://github.com/mhdhadi2005/NER_repo
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 [TaskManager](https://github.com/mhdhadi2005/TaskManager)
-Task management application showcasing application structure, logic organization, and full-stack development practice.
+### ✅ TaskManager
+Task management application demonstrating practical software design and implementation workflow.
 
-**Tech:** JavaScript
+**Tech:** JavaScript  
+🔗 **Repo:** https://github.com/mhdhadi2005/TaskManager
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Other Notable Work
+- **LuxLeads** (TypeScript)
+- **BicepCurls** (Python)
+
+Exploring product-oriented development and engineering fundamentals across domains.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -106,15 +130,15 @@ Task management application showcasing application structure, logic organization
 ---
 
 ## 📌 What I'm Working On
-- Building data-driven systems in **AI/ML** and **Data Science**
-- Expanding **NLP** projects from entity extraction to richer language understanding
-- Advancing **quantitative ML** workflows for market analysis and strategy research
-- Strengthening software engineering practices for scalable backend systems
+- Building stronger end-to-end **Data Science + ML** project pipelines
+- Expanding **NLP** capabilities beyond baseline NER workflows
+- Iterating on **quantitative modeling** and backtesting frameworks
+- Improving backend engineering patterns for AI-enabled applications
 
 ---
 
 ## 💡 Developer Quote
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
 
 ---
 
