@@ -28,6 +28,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Data Science / ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -43,6 +44,9 @@
 ### Backend / Engineering
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -88,11 +92,43 @@ Named Entity Recognition project focused on extracting structured information fr
 <tr>
 <td width="50%" valign="top">
 
+### 🗄️ redis-java
+A Java implementation of a Redis server — RESP protocol, in-memory key-value store, and master/replica replication, with Docker and Kubernetes (Helm) deployment setups.
+
+**What it includes:**
+- Custom RESP protocol parser/serializer
+- TCP server supporting `PING`, `SET`, `GET`, `INCR`, `DEL`, `INFO`, and more
+- Master/replica replication
+- Dockerized, with a Helm chart for k8s deployment
+
+**Tech:** Java, Spring, Docker, Kubernetes, Helm  
+🔗 **Repo:** https://github.com/mhdhadi2005/redis-java
+
+</td>
+<td width="50%" valign="top">
+
 ### ✅ TaskManager
 Task management application demonstrating practical software design and implementation workflow.
 
 **Tech:** JavaScript  
 🔗 **Repo:** https://github.com/mhdhadi2005/TaskManager
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 ai-cookbook
+A curated collection of practical, copy/paste-ready examples for building AI systems — agents, RAG, MCP servers, LLM workflows, and more.
+
+**What it includes:**
+- Agent design patterns and building blocks
+- Agentic & hybrid RAG implementations
+- A full MCP (Model Context Protocol) crash course
+- OpenAI API examples (structured output, assistants, Whisper)
+
+**Tech:** Python  
+🔗 **Repo:** https://github.com/mhdhadi2005/ai-cookbook
 
 </td>
 <td width="50%" valign="top">
