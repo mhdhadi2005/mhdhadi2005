@@ -121,22 +121,6 @@ AI-assisted quantitative trading system for stock signal analysis and strategy r
 </td>
 <td width="50%" valign="top">
 
-### 🧠 NER_repo
-Named Entity Recognition project focused on extracting structured information from unstructured text.
-
-**What it includes:**
-- NLP preprocessing and entity extraction pipeline
-- Model experimentation for NER tasks
-- Foundation for real-world information extraction use cases
-
-**Tech:** Python, NLP, Machine Learning
-🔗 **Repo:** https://github.com/mhdhadi2005/NER_repo
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🗄️ redis-java
 A Java implementation of a Redis server — RESP protocol, in-memory key-value store, and master/replica replication, with Docker and Kubernetes (Helm) deployment setups.
 
@@ -148,15 +132,6 @@ A Java implementation of a Redis server — RESP protocol, in-memory key-value s
 
 **Tech:** Java, Spring, Docker, Kubernetes, Helm
 🔗 **Repo:** https://github.com/mhdhadi2005/redis-java
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ TaskManager
-Task management application demonstrating practical software design and implementation workflow.
-
-**Tech:** JavaScript
-🔗 **Repo:** https://github.com/mhdhadi2005/TaskManager
 
 </td>
 </tr>
@@ -174,6 +149,31 @@ A curated collection of practical, copy/paste-ready examples for building AI sys
 
 **Tech:** Python
 🔗 **Repo:** https://github.com/mhdhadi2005/ai-cookbook
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 NER_repo
+Named Entity Recognition project focused on extracting structured information from unstructured text.
+
+**What it includes:**
+- NLP preprocessing and entity extraction pipeline
+- Model experimentation for NER tasks
+- Foundation for real-world information extraction use cases
+
+**Tech:** Python, NLP, Machine Learning
+🔗 **Repo:** https://github.com/mhdhadi2005/NER_repo
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ TaskManager
+Task management application demonstrating practical software design and implementation workflow.
+
+**Tech:** JavaScript
+🔗 **Repo:** https://github.com/mhdhadi2005/TaskManager
 
 </td>
 <td width="50%" valign="top">
