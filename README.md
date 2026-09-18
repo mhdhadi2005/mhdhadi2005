@@ -145,6 +145,14 @@ Exploring product-oriented development and engineering fundamentals across domai
 
 ---
 
+## 🤖 LocalGPT
+
+Building **LocalGPT**, a private local-AI workspace with a polished interface, local model support, document workflows, and a reusable API layer.
+
+🔗 **Repo:** https://github.com/mhdhadi2005/localgpt
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -166,7 +174,8 @@ Exploring product-oriented development and engineering fundamentals across domai
 ---
 
 ## 📌 What I'm Working On
-- Building stronger end-to-end **Data Science + ML** project pipelines
+- Building **LocalGPT** as a polished local AI product
+- Building stronger end-to-end **Data Science + ML** pipelines
 - Expanding **NLP** capabilities beyond baseline NER workflows
 - Iterating on **quantitative modeling** and backtesting frameworks
 - Improving backend engineering patterns for AI-enabled applications
